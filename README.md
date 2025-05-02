@@ -1,6 +1,6 @@
 # freerobux.github.io
-echo "<h1>Hello World</h1>" > html.html
+echo "<h1>Hello World</h1>" > index.html
 
-git add html.html
-git commit -m "Add html.html"
+git add index.html
+git commit -m "Add index.html"
 git push
